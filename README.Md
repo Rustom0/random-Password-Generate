@@ -1,3 +1,5 @@
+### Random Password Generate
+
 🔐 Random Password Generator
 A simple and responsive web application built with HTML, CSS, and JavaScript that generates a random 12-character password. With just a click, you can generate a strong password and copy it to your clipboard instantly for use anywhere.
 
