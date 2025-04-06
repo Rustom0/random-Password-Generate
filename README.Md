@@ -15,7 +15,6 @@ A simple and responsive web application built with HTML, CSS, and JavaScript tha
 ## 📸 Screenshot
   # Desktop-View
   ![Screenshot](images/desktopview.png)
-## 
   # Mobile-view
   ![Screenshot](images/mobileview.png)
 ##
