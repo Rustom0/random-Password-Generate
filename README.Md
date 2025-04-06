@@ -13,10 +13,10 @@ A simple and responsive web application built with HTML, CSS, and JavaScript tha
 💻 Clean, responsive, and user-friendly interface.
 
 ## 📸 Screenshot
-  Desktop-View
+  # Desktop-View
   ![Screenshot](images/desktopview.png)
 ## 
-  Mobile-view
+  # Mobile-view
   ![Screenshot](images/mobileview.png)
 ##
 ## 🛠️ Technologies Used
