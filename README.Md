@@ -26,13 +26,13 @@ CSS
 JavaScript
 
 ## 🧠 How It Works
-Click the "Generate Password" button.
+- Click the "Generate Password" button.
 
-A new random password is displayed.
+- A new random password is displayed.
 
-Click the "Copy" button to copy it to your clipboard.
+- Click the "Copy" button to copy it to your clipboard.
 
-Paste and use your password wherever you need.
+- Paste and use your password wherever you need.
 
 
 ## ✅ How to Use
