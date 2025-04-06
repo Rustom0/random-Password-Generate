@@ -18,7 +18,7 @@ A simple and responsive web application built with HTML, CSS, and JavaScript tha
 ## 
   Mobile-view
   ![Screenshot](images/mobileview.png)
-
+##
 ## 🛠️ Technologies Used
 HTML
 
